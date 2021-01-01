@@ -7,16 +7,16 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 70
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 2
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -27,9 +27,10 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
+  # The default is 4
   #   1 = List
   #   2 = Compact
   #   3 = Card
@@ -37,6 +38,6 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+<!-- {{% callout note %}} -->
+<!-- Quickly discover relevant content by [filtering publications](./publication/). -->
+<!-- {{% /callout %}} -->
