@@ -8,7 +8,7 @@ authors:
 - Adam Ghandar
 - Georgios Theodoropoulos
 - Miner Zhong
-- Bowen Zhen
+- Bowen Zheng
 - admin
 - Yue Gong
 - Ayyaz Ahmed
